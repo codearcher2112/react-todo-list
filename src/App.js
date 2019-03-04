@@ -4,6 +4,7 @@ import TodoList from './components/TodoList';
 
 import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 import uuid from 'uuid';
 
 class App extends Component {
